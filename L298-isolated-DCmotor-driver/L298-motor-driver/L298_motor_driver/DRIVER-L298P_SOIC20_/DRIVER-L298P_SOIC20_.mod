@@ -1,0 +1,226 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SOIC20G-1.27-16X11MM
+$EndINDEX
+$MODULE SOIC20G-1.27-16X11MM
+Po 0 0 0 15 00000000 00000000 ~~
+Li SOIC20G-1.27-16X11MM
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.127242 -8.71608 0.701334 0.701334 0 0.05 N V 21 "SOIC20G-1.27-16X11MM"
+T1 0.317818 9.08959 0.700701 0.700701 0 0.05 N V 21 "VAL**"
+DS -5.461 7.9502 5.461 7.9502 0.127 21
+DS 5.461 -7.9502 -4.2418 -7.9502 0.127 21
+DS -5.461 -6.731 -5.461 7.9502 0.127 21
+DS 5.461 -7.9502 5.461 7.9502 0.127 21
+DS -5.461 -6.731 -4.2418 -7.9502 0.127 21
+DC -6.215 -6.755 -5.834 -6.755 0 21
+DP 0 0 0 0 4 0.381 19
+Dl -2.54225 -4.1275
+Dl -0.635 -4.1275
+Dl -0.635 -2.22447
+Dl -2.54225 -2.22447
+DP 0 0 0 0 4 0.381 19
+Dl 0.635757 -4.1275
+Dl 2.54 -4.1275
+Dl 2.54 -2.22515
+Dl 0.635757 -2.22515
+DP 0 0 0 0 4 0.381 19
+Dl -2.54431 -0.9525
+Dl -0.635 -0.9525
+Dl -0.635 0.954115
+Dl -2.54431 0.954115
+DP 0 0 0 0 4 0.381 19
+Dl 0.635285 -0.9525
+Dl 2.54 -0.9525
+Dl 2.54 0.952927
+Dl 0.635285 0.952927
+DP 0 0 0 0 4 0.381 19
+Dl -2.54203 2.2225
+Dl -0.635 2.2225
+Dl -0.635 4.13079
+Dl -2.54203 4.13079
+DP 0 0 0 0 4 0.381 19
+Dl 0.636111 2.2225
+Dl 2.54 2.2225
+Dl 2.54 4.13472
+Dl 0.636111 4.13472
+DP 0 0 0 0 4 0.381 24
+Dl -5.46363 -7.9502
+Dl 5.461 -7.9502
+Dl 5.461 7.95403
+Dl -5.46363 7.95403
+$PAD
+Sh "P$1" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 -5.715
+$EndPAD
+$PAD
+Sh "P$2" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 -4.445
+$EndPAD
+$PAD
+Sh "P$3" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 -3.175
+$EndPAD
+$PAD
+Sh "P$4" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 -1.905
+$EndPAD
+$PAD
+Sh "P$5" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 -0.635
+$EndPAD
+$PAD
+Sh "P$6" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 0.635
+$EndPAD
+$PAD
+Sh "P$7" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 1.905
+$EndPAD
+$PAD
+Sh "P$8" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 3.175
+$EndPAD
+$PAD
+Sh "P$9" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 4.445
+$EndPAD
+$PAD
+Sh "P$10" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.731 5.715
+$EndPAD
+$PAD
+Sh "P$11" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 5.715
+$EndPAD
+$PAD
+Sh "P$12" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 4.445
+$EndPAD
+$PAD
+Sh "P$13" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 3.175
+$EndPAD
+$PAD
+Sh "P$14" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 1.905
+$EndPAD
+$PAD
+Sh "P$15" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 0.635
+$EndPAD
+$PAD
+Sh "P$16" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 -0.635
+$EndPAD
+$PAD
+Sh "P$17" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 -1.905
+$EndPAD
+$PAD
+Sh "P$18" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 -3.175
+$EndPAD
+$PAD
+Sh "P$19" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 -4.445
+$EndPAD
+$PAD
+Sh "P$20" R 1.651 0.635 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.731 -5.715
+$EndPAD
+$PAD
+Sh "THERMALS" R 10.16 7.62 0 0 900
+At SMD N 00888000
+.SolderMask 0
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE SOIC20G-1.27-16X11MM

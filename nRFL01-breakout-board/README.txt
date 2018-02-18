@@ -1,0 +1,1 @@
+Breakout board for the nRF24L01 with SMA output for antenna.

@@ -1,0 +1,1 @@
+A motor driver board bsed on the LN298 H-bridge chip. It can take a li-po battery as input with a xt-60 connector or it can be powered with a power supply. Input volatage ratings are printed on the back side of the board. The control inputs are optically isolated. The board offers a 5V isolated output to power the controller board. 

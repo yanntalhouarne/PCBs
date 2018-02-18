@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LT1076CQ-5PBF
+#
+DEF LT1076CQ-5PBF U 0 40 Y Y 1 L N
+F0 "U" 1216 359 50 H V L BNN
+F1 "LT1076CQ-5PBF" 1191 259 50 H V L BNN
+F2 "DDPAK-5_Q" 0 0 50 H I L BNN
+F3 "Linear Technology" 0 0 50 H I L BNN "MF"
+F4 "6.31 USD" 0 0 50 H I L BNN "Price"
+F5 "PMIC - DC/DC voltage regulator Linear Technology LT1076CQ-5#PBF Converter, Boost, Flyback TO 263 6" 0 0 50 H I L BNN "Description"
+F6 "LT1076CQ-5#PBF" 0 0 50 H I L BNN "MP"
+F7 "Warning" 0 0 50 H I L BNN "Availability"
+F8 "TO-263 Linear Technology" 0 0 50 H I L BNN "Package"
+DRAW
+P 2 0 0 6 300 200 300 -400 N
+P 2 0 0 6 300 -400 2500 -400 N
+P 2 0 0 6 2500 -400 2500 200 N
+P 2 0 0 6 2500 200 300 200 N
+X FB/SENSE 1 0 0 300 R 40 40 0 0 P 
+X VC 2 0 -100 300 R 40 40 0 0 P 
+X GND 3 0 -200 300 R 40 40 0 0 I 
+X VSW 4 2800 -200 300 L 40 40 0 0 P 
+X VIN 5 2800 -100 300 L 40 40 0 0 I 
+X EPAD 6 2800 0 300 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

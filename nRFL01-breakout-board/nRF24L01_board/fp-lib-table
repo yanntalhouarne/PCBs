@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name crystal_403C11E16M00000)(type KiCad)(uri "$(KIPRJMOD)/crystal_403C11E16M00000.pretty")(options "")(descr ""))
+  (lib (name SMA_edge)(type KiCad)(uri "$(KIPRJMOD)/SMA_edge.pretty")(options "")(descr ""))
+)
